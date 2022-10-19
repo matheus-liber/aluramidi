@@ -1,6 +1,6 @@
 # Alura Midi
 
-![preview](images/preview.png)
+![preview](./images/preview.PNG)
 
 >Alura | Cursos online de Tecnologia
 
